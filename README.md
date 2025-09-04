@@ -7,7 +7,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/YaqoobDeve](https://github.com/YaqoobDeve)
 - 📫 Reach me at **yaqoobdeve@gmail.com**
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/yaqoobdeve)
-- ⚡ Fun fact: I think I’m funny, but my code bugs don’t agree 😅
 
 ---
 
