@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning **React.js**, **Node.js**, and **MongoDB**
+- 🌱 I’m currently learning **MERN** trying to build real projects
 - 👨‍💻 All of my projects are available at [https://github.com/YaqoobDeve](https://github.com/YaqoobDeve)
 - 📫 Reach me at **yaqoobdeve@gmail.com**
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/yaqoobdeve)
@@ -49,7 +49,6 @@
 
 ### 🧠 Currently Exploring
 
-- React.js advanced concepts
 - Building full-stack projects with the MERN stack
 - UI/UX best practices with Tailwind CSS & Figma
 
